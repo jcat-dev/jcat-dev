@@ -4,7 +4,6 @@
 </h1>
 
 [![Portfolio](https://img.shields.io/badge/-Portafolio-teal?style=flat&logo=appveyor&logoColor=white)](https://portafolio-jec.vercel.app/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jcat-dev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jcat-dev/)
 <br />
 <br />
@@ -19,49 +18,43 @@
   📁
   <b> Proyectos</b>
 </h2>
-
+<br/>
+<br/>
+<br/>
 
 <!-- Habilidades -->
 <h2>
   📋
   <b> Habilidades</b>  
 </h2>
+<br/>
+<br/>
+<br/>
 
-<div>
-  
-- **Lenguajes**:    
-    <br />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
-    <br />   
-    
-- **Front-End**:
-    <br />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    <br>
-
-- **Back-End**:
-    <br />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    <img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    <br>
-
-- **Base de Dato**:
-    <br />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">  
-    <br/>
-  
-- **Herramientas**:
-    <br />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-    <br/>
+<div align="center" >
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg">  
+    <br/>  
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">  
+    <br/>    
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </div>
+<br/>
+<br/>
+<br/>
 
 <!-- Estadísticas -->
 <h2>
   📊
   <b> Estadísticas</b>  
 </h2>
+<br/>
+<br/>
+<br/>
 
 <div align="center" >
   <img  
