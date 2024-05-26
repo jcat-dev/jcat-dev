@@ -93,8 +93,8 @@
   <img 
     height="60" 
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
-    alt="estadísticas"
-    title="estadísticas"
+    alt="git"
+    title="GIT"
   />
 </div>
 <br/>
