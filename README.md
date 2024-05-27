@@ -1,15 +1,15 @@
-<h2 align=center >
-  <b>Desarrollador Web</b>
-</h2>
+<h1 align=center >
+  👋 Hola, soy Jorge Emanuel Castillo   
+</h1>
 
 <h2>
-   👋 Hola, soy Jorge Emanuel Castillo 
+  <span>
+    Desarrollador Web Full Stack
+  </span>
+  
+  [![Portfolio](https://img.shields.io/badge/-Portafolio-teal?style=flat&logo=appveyor&logoColor=white)](https://portafolio-jec.vercel.app/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jcat-dev/)
 </h2>
-
-[![Portfolio](https://img.shields.io/badge/-Portafolio-teal?style=flat&logo=appveyor&logoColor=white)](https://portafolio-jec.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jcat-dev/)
-<br />
-<br />
 <br />
 <br />
 
