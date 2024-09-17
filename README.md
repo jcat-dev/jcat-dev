@@ -56,7 +56,12 @@
     alt="css"
     title="CSS"
   />
-  <p height="60">React-Router</p>
+  <img 
+    height="60"
+    src="https://raw.githubusercontent.com/jcat-dev/portafolio/main/src/assets/frontend/react-router.svg"
+    alt="react-router"
+    title="ReactRouter"
+  />
   <br/>  
   <img 
     height="60" 
